@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -26,3 +26,13 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+
+### Skills
+
+- Python programming
+- RegEx
+- UNIX shell scripting
+- Jupyter Notebooks
+- Data structures and
+algorithms
+- GIT Version control
