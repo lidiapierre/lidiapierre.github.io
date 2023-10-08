@@ -5,6 +5,7 @@
 ### Projects 
 
 [Movie Reviews fine-tuned Masked Language Model](https://huggingface.co/spaces/lidiapierre/Fill_the_mask)
+<br/>
 <img src="images/fill_the_mask.png?raw=true"/>
 
 ---
